@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hole
+  - CheckPoint
+  - Container_1
+  - Container_2
+  - Container_3
+  - Container_End
+  - TeleportToSetting
+  - TeleportToWork
+  - TeleportToPick
+  - TeleportToAssemble
+  - NextContainer
+  - Floor
+  - Assemble_ItemSlotCount
+  - Assemble_Item
+  - Container_4
+  - TeleportToPack
+  - TeleportToStorage
+  - Container_3-1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - rail&machine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3951913
+    locked: 0
+  - name: Pannel
+    uniqueID: 739815063
+    locked: 0
+  - name: Button
+    uniqueID: 3847993603
+    locked: 0
+  - name: Item
+    uniqueID: 196816691
+    locked: 0

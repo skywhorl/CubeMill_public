@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/00.Scenes/MainPlay.unity
+    guid: 656af12d3a4cdd442803b181632723f4
+  - enabled: 1
+    path: Assets/00.Scenes/PlayerCoding_Work.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/00.Scenes/VolumeControl.unity
+    guid: 2d1833c5c3e03244bb2a6c979907159c
+  - enabled: 1
+    path: Assets/00.Scenes/PlayerCoding_Assemble.unity
+    guid: f6226afc2e88faa4caf320ba8696bf01
+  - enabled: 1
+    path: Assets/00.Scenes/PlayerCoding_Input.unity
+    guid: f34c94b61fcad5b42a404d86e186c827
+  - enabled: 1
+    path: Assets/00.Scenes/Packing.unity
+    guid: cef7da3238be15248b1ed6381a0bb3ab
+  - enabled: 1
+    path: Assets/00.Scenes/Storage.unity
+    guid: e9621da95412d1d4992d0d15e4c73c12
+  m_configObjects: {}
